@@ -1,0 +1,62 @@
+ /* sec2  */
+ .image1{
+    height: 65vh;
+    width: 85vh;
+}
+.bord{
+    height: 5px;
+    width: 60px;
+    background-color: rgb(0, 131, 116);
+    border-top: 1 px solid  rgb(4, 185, 176);
+    border-radius: 5px;
+    margin: auto;
+}
+.valide{
+    color:rgb(0, 131, 116);
+    font-size: 24px;
+} 
+.icon-play{
+    color: rgb(0, 131, 116);
+    pa-top: -10vh;
+}
+.logo{
+    height: 70px;
+    width:90px ;
+}
+.client{
+    width: 100px;
+    height:40px ;
+}
+/* sec3 */
+.image-stats{
+    width: 60vh;
+}
+.icon-stats{
+    font-size: 40px;
+}
+.chiffre{
+    font-size: 36px;
+}
+
+.image-font{
+    background-image: url(Images/cta-bg.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+}
+.contenu{
+    height: 400px;
+
+}
+.icon{
+    display: flex;
+    align-items: center;
+}
+
+.bonton{
+    width: 200px;
+    height: 50px;
+    background-color: transparent;
+    border: 2px solid white; 
+    border-radius: 5px;
+}
