@@ -1,3 +1,4 @@
+
  /* sec2  */
  .image1{
     height: 65vh;
@@ -60,3 +61,14 @@
     border: 2px solid white; 
     border-radius: 5px;
 }
+
+.couleur-nav-un{
+    background-color: #007668;
+   
+}
+.couleur-nav-deux{
+ background-color: #008374;}
+ .contenu{
+    background-color: #007668;
+ }
+
